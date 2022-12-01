@@ -14,7 +14,7 @@ public class Calculator {
 	/**
 	 * Adds a bunch of numbers together until user types -1
 	 * 
-	 * @param in Scammer for keyboard input.
+	 * @param in Scanner for keyboard input.
 	 */
 	public static void accumulate(Scanner in) {
 		int sum = 0;
